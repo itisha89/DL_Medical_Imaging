@@ -80,4 +80,7 @@ This repository is intended as a resource for researchers, healthcare profession
 
 Advancements in deep learning, particularly in generative models and transformer architectures, hold immense potential for addressing existing challenges and further enhancing medical image analysis. Collaboration between AI researchers and healthcare professionals will be critical for realizing these possibilities.  
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
 
+---
